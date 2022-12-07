@@ -6,7 +6,8 @@ import com.microsoft.azure.functions.*;
 /**
  * Azure Functions with Service Bus Trigger.
  */
-public class ServiceBusQueueTriggerJava1 
+public class ServiceBusQueueTriggerJava1
+{ 
     /**
      * This function will be invoked when a new message is received at the Service Bus Queue.
      */
